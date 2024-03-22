@@ -1,4 +1,4 @@
-#This is for learning how to use Git & Github
+Hello G!
 
 #An0ther line here for testing
 
